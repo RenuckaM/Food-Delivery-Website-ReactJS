@@ -29,9 +29,9 @@ Explore the live Experience [here](https://react-food-order-web.netlify.app)
 
 ## Installation
 
-1. **Clone the repository:** `git clone https://github.com/yourusername/food-ordering-app-react.git`
+1. **Clone the repository:** `git clone https://github.com/yourusername/food-delivery-website-react.git`
 
-2. **Navigate to the project directory:** `cd food-ordering-app-react`
+2. **Navigate to the project directory:** `cd food-delivery-website-react`
 
 3. **Install dependencies:** `npm install` or `yarn install`
 
