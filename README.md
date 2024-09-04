@@ -4,6 +4,7 @@ A modern and responsive Food Ordering App built using React JS. This app allows 
 
 ## Project Preview
 
+![image](https://github.com/user-attachments/assets/bd1723e3-bf40-4114-a9dd-1f14d69fd818)
 
 
 Explore the live Experience [Demo](https://react-food-order-web.netlify.app)
